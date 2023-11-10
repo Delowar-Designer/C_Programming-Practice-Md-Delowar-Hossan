@@ -1,6 +1,9 @@
 ## C_Programming Practice Md Delowar Hossan
 
-<img src="./Image/C-programming-wide.png" Width="" title="C_Programming Practice Md Delowar Hossan"/> 
+<img src="./Image/C-programming-wide.png" Width="" title="C_Programming Practice Md Delowar Hossan"/>
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=Delowar-Designer&label=Profile%20Views%20Delowar-Designer&color=7&icon=0&pretty=true" />
+</a> 
 <h3 align="center"> Aslamualai Hello there 👋</h3>
 <h3 align="center">My Name is Md Delowar Hossan</h3><h3 align="center">I am Software Engineering</h3><h3 align="center">My Skills Languages Tools</h3>  
 
@@ -54,9 +57,7 @@ In each of my projects, I always follow Quality, Time, Quantity, my commitment t
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Delowar-Designer)](https://github.com/ryo-ma/github-profile-trophy)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Delowar-Designer&label=Profile%20Views%20Delowar-Designer&color=7&icon=0&pretty=true" />
-</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delowar-Designer)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Delowar-Designer&show_icons=true&count_private=true)  
