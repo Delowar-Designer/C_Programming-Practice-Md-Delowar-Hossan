@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    float dividend = 25.7;
+    float divisor = 7.3;
+
+    int quotient = dividend / divisor;
+    float remainder = dividend -(divisor *quotient);  
+    printf("Anader raglate %f\n", remainder);
+
+    return 0;
+}
