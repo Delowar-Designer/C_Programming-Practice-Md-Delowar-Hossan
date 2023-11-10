@@ -31,9 +31,7 @@ I am Md. Delowar Hossan. Welcome to my  profile. I am a professional freelancer 
 
 # My areas of expertise are
 
-### <p align="justify"> Programming languages Skills: Python/ C/ JavaScript/ Java/ C++/ C#/ Ruby/ Swift/ Go (Golang)/ PHP/ TypeScript/ Rust/ Kotlin/ Scala/ Perl/ HTML/CSS (Markup and Style Sheet languages)/ SQL (Structured Query Language)/ MATLAB/ R/ Dart/ Lua
-</p>
-
+### <p align="justify"> Programming languages Skills: Python/ C/ JavaScript/ Java/ C++/ C#/ Ruby/ Swift/ Go (Golang)/ PHP/ TypeScript/ Rust/ Kotlin/ Scala/ Perl/ HTML/CSS (Markup and Style Sheet languages)/ SQL (Structured Query Language)/ MATLAB/ R/ Dart/ Lua</p>
 # My Honesty
 <p align="justify">
 In each of my projects, I always follow Quality, Time, Quantity, my commitment to the client, and Client satisfaction. So you can knock me anytime for your help because I am determined to offer honesty, efficiency and sincerity to the optimum level.
