@@ -30,8 +30,8 @@ Contributors are working behind the scenes to make open source better for everyo
 I am Md. Delowar Hossan. Welcome to my  profile. I am a professional freelancer since 2018. I have been doing freelancing in Fiverr & Upwork Marketplace. Things that I can do or provide for my client. Such as :- </p>
 
 # My areas of expertise are
-<p align="justify">
-### Programming languages Skills: Python/ C/ JavaScript/ Java/ C++/ C#/ Ruby/ Swift/ Go (Golang)/ PHP/ TypeScript/ Rust/ Kotlin/ Scala/ Perl/ HTML/CSS (Markup and Style Sheet languages)/ SQL (Structured Query Language)/ MATLAB/ R/ Dart/ Lua
+
+### <p align="justify"> Programming languages Skills: Python/ C/ JavaScript/ Java/ C++/ C#/ Ruby/ Swift/ Go (Golang)/ PHP/ TypeScript/ Rust/ Kotlin/ Scala/ Perl/ HTML/CSS (Markup and Style Sheet languages)/ SQL (Structured Query Language)/ MATLAB/ R/ Dart/ Lua
 </p>
 
 # My Honesty
