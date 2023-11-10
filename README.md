@@ -1,13 +1,11 @@
-# C_Programming Practice Md Delowar Hossan
+## C_Programming Practice Md Delowar Hossan
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./Image/C-programming-wide.png" alt="c" width="" height="150"/>
 <img src="./Image/C-programming-wide.png" Width="" title="C_Programming Practice Md Delowar Hossan"/> 
 <h3 align="center"> Aslamualai Hello there 👋</h3>
 <h3 align="center">My Name is Md Delowar Hossan</h3><h3 align="center">I am Software Engineering</h3><h3 align="center">My Skills Languages Tools</h3>  
 
 #
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="" height=""/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="300" height="300"/> </a> </p>
 
 <!--markdown tutorial-->
 # Hello Delowar Hossan 
