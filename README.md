@@ -7,7 +7,7 @@
 
 #
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Delowar-Designer&label=Profile%20Views%20Delowar-Designer&color=7&icon=0&pretty=true" width="100" heigt="100" /> 
+<img src="https://visitcount.itsvg.in/api?id=Delowar-Designer&label=Profile%20Views%20Delowar-Designer&color=7&icon=0&pretty=true" width="" heigt="" /> 
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="150" height="150"/> </a> </p>
 
 <!--markdown tutorial-->
